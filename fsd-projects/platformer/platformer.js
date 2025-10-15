@@ -42,18 +42,37 @@ createPlatform(400, 200, 100, 15);
 createPlatform(500, 200, 100, 15);
 createPlatform(600, 200, 100, 15);
 createPlatform(500, 700, 10, 500);
-
-
-
-
+createPlatform(500, 600, 10, 500);
+createPlatform(500, 500, 10, 500);
+createPlatform(500, 400, 10, 500);
+createPlatform(500, 300, 10, 500);
+createPlatform(500, 200, 10, 500);
+createPlatform(700, 200, 100, 15);
+createPlatform(800, 300, 100, 15);
+createPlatform(700, 400, 100, 15);
+createPlatform(600, 500, 100, 15);
+createPlatform(700, 600, 100, 15);
+createPlatform(1300, 100,100, 15);
+createPlatform(900, 600, 100, 15);
+createPlatform(1000, 500, 100, 15);
+createPlatform(1100, 400, 100, 15);
+createPlatform(800, 600, 100, 15);
+createPlatform(600, 500, 10, 500);
+createPlatform(800, 600, 10, 500);
+createPlatform(1200, 300, 100, 15);
+createPlatform(1100, 200, 100, 15);
     // TODO 3 - Create Collectables
-
-
+createCollectable("kennedi",100, 200);
+createCollectable("steve",400, 100);
+createCollectable("diamond",800, 100);
+createCollectable("grace",800,500);
+createCollectable("max",1300,0);
+createCollectable("diamond", 700, 700);
 
     
     // TODO 4 - Create Cannons
 
-
+createCannon("left",100,100, delay);
     
     
     //////////////////////////////////
