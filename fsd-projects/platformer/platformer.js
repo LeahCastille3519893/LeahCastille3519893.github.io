@@ -72,7 +72,7 @@ createCollectable("diamond", 700, 700);
     
     // TODO 4 - Create Cannons
 
-createCannon("left",100,100, delay);
+createCannon("left", delay);
     
     
     //////////////////////////////////
